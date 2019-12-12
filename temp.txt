@@ -1,0 +1,11 @@
+1.两个数据库中的table关联
+2.java.lang.OutOfMemoryError: PermGen space
+broker
+订阅
+socket通讯和plc通讯
+
+
+
+郵箱密碼:Fnj372Bt
+
+

@@ -1,0 +1,8 @@
+interactiveMode
+prompt
+sensible
+offline
+artifact
+deployment
+profiles
+hypothetically  假设地
